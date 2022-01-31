@@ -3,10 +3,10 @@
 
 <svg
    version="1.1"
-   id="svg9"
-   width="546.1333"
-   height="546.1333"
-   viewBox="0 0 546.1333 546.1333"
+   id="svg7"
+   width="893.78668"
+   height="682.66699"
+   viewBox="0 0 893.78668 682.667"
    sodipodi:docname="email.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -15,32 +15,49 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs13" />
+     id="defs11">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath569">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M -2.8890865,80.894422 681.82441,79.931393 684.71349,600.92999 0.96302883,599.96697 Z"
+         id="path571"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
-     id="namedview11"
+     id="namedview9"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="true"
      showgrid="false"
-     inkscape:zoom="0.70770268"
-     inkscape:cx="235.26829"
-     inkscape:cy="26.140921"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     lock-margins="false"
+     scale-x="0.7"
+     inkscape:zoom="0.51919526"
+     inkscape:cx="476.69927"
+     inkscape:cy="505.59013"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g15" />
+     inkscape:current-layer="g13" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
-     id="g15">
+     id="g13"
+     transform="translate(0,-79.931392)">
     <image
-       width="546.1333"
-       height="714.18439"
+       width="681.92035"
+       height="682.66699"
        preserveAspectRatio="none"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
 AAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAACAASURB
@@ -317,8 +334,10 @@ ScohA4AkSTlkAJAkKYcMAJIk5ZABQJKkHDIASJKUQwYASZJyyAAgSVIOGQAkScohA4AkSTlkAJAk
 KYcMAJIk5ZABQJKkHDIASJKUQwYASZJyyAAgSVIOGQAkScohA4AkSTlkAJAkKYcMAJIk5dD/ByAQ
 hzDXlAPaAAAAAElFTkSuQmCC
 "
-       id="image17"
+       id="image15"
        x="0"
-       y="-83.531357" />
+       y="0"
+       clip-path="url(#clipPath569)"
+       transform="matrix(1.3106907,0,0,1.3103049,0,-24.803104)" />
   </g>
 </svg>

@@ -5,20 +5,25 @@
 }
 
 .front-end-logos{
-    padding-bottom: 1rem;
-    padding-top:1rem;
     width:80%;
+    height: 5rem;
 }
 
 .front_end_skills{
- width:300px;
+    height:300px;
+    width:320px;
  font-family: 'Poppins', sans-serif;
- -webkit-transition: all 0.4s ease 0s;
- -moz-transition: all 0.4s ease 0s;
- -o-transition: all 0.4s ease 0s;
  transition: all 0.4s ease 0s;
 
 }
+
+*, ::after, ::before {
+    box-sizing: border-box;
+    }
+    
+    div {
+    display: block;
+    }
 
 .front_end_skills:hover{
     box-shadow: 0px 15px 30px rgba(77, 87, 222, 0.3);
@@ -42,7 +47,7 @@
 }
 
 .skills_illustration{
-    max-width: 130%;
+    max-width: 160%;
 }
 
 .downarrow{
